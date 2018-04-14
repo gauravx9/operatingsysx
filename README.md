@@ -1,0 +1,2 @@
+# operatingsysx
+an online system where we can handle student queries. Since there can be multiple requests at any time we wishes to dedicate a fixed amount of time to every request so that everyone gets a fair share of his time. we will log into the system from 10am to 12am only.  The summary at the end of the session should include the total time we spent on handling queries and average query time.
